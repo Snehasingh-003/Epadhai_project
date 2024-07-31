@@ -1,0 +1,125 @@
+.topbox{
+    /* border:2px solid red; */
+    /* border-bottom: 40px grey; */
+    width:100%;
+    height:20%;
+    background-color: #74c69d;
+}
+.smallbox{
+    text-align: center;
+    width:30%;
+    margin-left: 30rem;
+    /* border:2px solid red; */
+}
+.smallbox h3{
+    padding-top:30px;
+}
+.inst{
+    padding:50px 5px 5px 30px;
+    border:2px solid grey;
+    width:100%;
+    height:30%;
+}
+.que1{
+    width:50%;
+    height:50%;
+    padding-top:50px;
+    margin-left:350px;
+    /* border:2px solid red; */
+    /* background-color:#5a189a; */
+    font-size: 20px;
+    letter-spacing: 4px;
+    display:flex;
+}
+.que1 img{
+    width:100%;
+    height:100%;
+}
+.options{
+    margin-top:30px;
+    list-style:lower-alpha;
+    /* text-align: center; */
+    padding-left:22rem;
+    font-size: 20px;
+}
+.que2{
+width:50%;
+height:50%;
+padding-top:50px;
+margin-left:350px;
+/* border:2px solid red; */
+/* background-color:#5a189a; */
+font-size: 20px;
+letter-spacing: 4px;
+}
+.que2 img{
+width:100%;
+height:100%;
+}
+.que3{
+    width:50%;
+    height:50%;
+    padding-top:50px;
+    margin-left:350px;
+    /* border:2px solid red; */
+    /* background-color:#5a189a; */
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.que3 img{
+    width:100%;
+    height:100%;
+}
+.que4{
+    width:50%;
+    height:50%;
+    padding-top:50px;
+    margin-left:350px;
+    /* border:2px solid red; */
+    /* background-color:#5a189a; */
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.que4 img{
+    width:100%;
+    height:100%;
+}
+.que5{
+    width:50%;
+    height:50%;
+    padding-top:50px;
+    margin-left:350px;
+    /* border:2px solid red; */
+    /* background-color:#5a189a; */
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+.que5 img{
+    width:100%;
+    height:100%;
+}
+#submit{
+    margin-left:30rem;
+    height:50px;
+    width:150px;
+    background-color:white;
+    border:solid grey;
+  
+    color:black;
+    border-radius: 5px;
+    /* margin-left: 200px; */
+    margin-top:30px;
+    transition: 0.7 ease transform 0.7 ease;
+  }
+#submit:hover{
+    transform:
+    scale(1.1);
+  }
+  .options{
+    margin-bottom:20px;
+  }
+  #result{
+    margin-top:20px;
+    font-weight:bold;
+    font-size: 1.2rem;;
+  }

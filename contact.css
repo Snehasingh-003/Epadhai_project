@@ -1,0 +1,61 @@
+
+*{
+  list-style:none;
+  text-decoration: none;
+  
+}.form-text{
+    /* justify-content: center; */
+    text-align: center;
+    /* margin-top:40px; */
+    height:100%;
+    /* border:2px solid red; */
+    /* background-image: url("https://wallpaperaccess.com/full/2579546.jpg"); */
+    padding-bottom:200px;
+    position:relative;
+}
+.form-text img{
+    max-width:100%;
+    height:auto;
+}
+.c-form{
+    width:50rem;
+    height:40rem;
+    /* border:2px solid red; */
+    margin-top:100px;
+    position:absolute;
+    top:0;
+    margin-left:300px;
+}
+.box{
+    /* border:2px solid red; */
+    /* background-color: #ffe4b5 ;
+     */
+     /* background-image: url("https://i.pinimg.com/564x/63/06/7f/63067f1040fb2fba4a8036ad106942ac.jpg"); */
+    background-color: #ffe4b5;
+
+    height:10rem;
+}
+.text{
+    background-color: white;
+    
+}
+.box p{
+    font-size: 30px;
+  padding-top:50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.contact{
+    margin-top:20px;
+    width:100px;
+    height:40px;
+    margin-bottom:20px;
+    border-radius: 10px;
+    border:none;
+    background-color: #ffe4b5;
+}
+.signup{
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
